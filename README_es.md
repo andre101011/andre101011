@@ -47,11 +47,11 @@
 
 class  QuienSoy:
 
-user = 'Andrés Llinás'
+usuario = 'Andrés Llinás'
 
-current_edu = "Universidad del Quindío"
+aducacion_actual = "Universidad del Quindío"
 
-hobbies = [
+pasatiempos = [
 
 'Dibujar',
 
@@ -81,7 +81,7 @@ ProgramarUnJuego()
 
 ## Trabajo Actual
 
-* I* Actualmente estoy trabajando en 🔭 crear **AI Chatbots** y perfeccionando mis habilidades 🌱 en **Programación competitiva**.
+* Actualmente estoy trabajando en 🔭 crear **AI Chatbots** y perfeccionando mis habilidades 🌱 en **Programación competitiva**.
 
 * ¡Comenzando con MongoDB y el stack MERN!
 
