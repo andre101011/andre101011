@@ -86,9 +86,10 @@ CodeOneGame()
 * Getting Started with MongoDB and the MERN Stack!!
 
 
-
+<hr/>
+  
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
