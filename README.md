@@ -1,16 +1,82 @@
-### Hi there 👋
 
-<!--
-**andre101011/andre101011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there👋 [Andrés](https://github.com/andre101011) here!  
 
-Here are some ideas to get you started:
+<h1>Welcome to my little big place</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img  align='right'  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'  width='180"'>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Andrés%20Llinás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andres-llinas-r/)](https://www.linkedin.com/in/andres-llinas-r/) [![Gmail Badge](https://img.shields.io/badge/-andreslli1707@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreslli1707@gmail.com)](mailto:andreslli1707@gmail.com) 
+
+
+<div  style="text-align: right">I have not failed. I’ve just found 10,000 ways that won’t work. </div>
+
+  
+
+## :computer: Technologies I Love
+
+* NodeJS
+
+* Web Development
+
+* REST API
+
+* Frontend and Backend Web Development
+
+  
+
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andre101011&layout=compact">
+
+  
+
+## Programming Languages
+
+<img  src = 'https://github.com/andre101011/andre101011/blob/main/images/html.svg'  width='30'/>  <img  src = 'https://github.com/andre101011/andre101011/blob/main/images/css.svg'  width='30'/>  <img  src = 'https://github.com/andre101011andre101011/blob/main/images/js.svg'  width='30'/>  <img  src = 'https://github.com/andre101011/andre101011/blob/main/images/bootstrap.svg'  width='33'/> 
+<img  src = 'https://github.com/andre101011/andre101011/blob/main/images/sql.svg'  width='30'/>
+
+## Technologies I Use
+
+<img  src = 'https://github.com/andre101011/andre101011/blob/main/images/git.svg'  width='30'/>  <img  src = 'https://github.com/andre101011/andre101011/blob/main/images/nodejs.svg'  width='33'/>  <img  src = 'https://github.com/andre101011/andre101011/blob/main/images/react.svg'  width='33'/>
+
+## Who am I?
+
+```python
+
+class  WhoAmI:
+
+user = 'Andrés Llinás'
+
+current_edu = "University Of Quindío"
+
+hobbies = [
+
+'Drawing',
+
+'Playing Guitar',
+
+'Learning Languages'
+
+'Being up all Night chasing that ONE BUG...'
+
+]
+
+def  getCity():
+
+return Armenia_Colombia()
+
+def  Ambitions():
+
+LearnFrench()
+
+CreateSkyNet()
+
+CodeOneGame()
+
+# Assume 10 more awesome ambitions here ;)
+
+```
+
+## Current Works
+
+* I'm currently working on 🔭 building **AI Chatbots** and working up on polishing my skills 🌱 in **Competitive Programming**.
+
+* Getting Started with MongoDB and the MERN Stack!!
