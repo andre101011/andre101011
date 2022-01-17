@@ -3,7 +3,11 @@
 
 <h1>Welcome to my little big place</h1>
 
-  <img  align='right'  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'  width='180"'>
+<table align="right">
+ <tr><td><a href="README_es.md"><img src="images/es-flag.png" height="10"> Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="10"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="10"> Français</a></td></tr>
+</table>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andrés%20Llinás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andres-llinas-r/)](https://www.linkedin.com/in/andres-llinas-r/) [![Gmail Badge](https://img.shields.io/badge/-andreslli1707@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreslli1707@gmail.com)](mailto:andreslli1707@gmail.com) 
 
