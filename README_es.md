@@ -59,7 +59,7 @@ pasatiempos = [
 
 'Aprender idiomas'
 
-'Estar despierto TODA LA NOCHE buscando ESE BUG...e'
+'Estar despierto TODA LA NOCHE buscando ESE BUG...'
 
 ]
 
