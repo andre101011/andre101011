@@ -8,7 +8,7 @@
 </table>
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrés%20Llinás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andres-llinas-r/)](https://www.linkedin.com/in/andres-llinas-r/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Andrés%20Llinás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andresllinasr/)](https://www.linkedin.com/in/andresllinasr/) 
 
 
 <div  style="text-align: right">I have not failed. I’ve just found 10,000 ways that won’t work. </div>
