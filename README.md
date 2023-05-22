@@ -10,5 +10,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andrés%20Llinás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andresllinasr/)](https://www.linkedin.com/in/andresllinasr/) 
 
+[![Andres' github stats](https://github-readme-stats.vercel.app/api?username=andresllinasr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div  style="text-align: right">I have not failed. I’ve just found 10,000 ways that won’t work. </div>
